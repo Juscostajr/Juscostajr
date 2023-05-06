@@ -1,6 +1,6 @@
 ## Juscelino Fernandes da Costa Junior
 PM, Educator and Developer
 
-| Languages | Frameworks | DevOps | Data Engenering | 
+| Languages | Frameworks | DevOps | Analytics and BI | 
 |--|--|--|--|
 | <img src="https://www.svgrepo.com/show/353925/javascript.svg" width="48px"> <img src="https://www.svgrepo.com/show/452234/java.svg" width="48px"> <img src="https://www.svgrepo.com/show/373970/php3.svg" width="48px"> <img src="https://www.svgrepo.com/show/452091/python.svg" width="48px"> | <img src="https://www.svgrepo.com/show/354245/quarkus-icon.svg" width="48px"> <img src="https://www.svgrepo.com/show/303494/vue-9-logo.svg" width="48px"> <img src="https://user-images.githubusercontent.com/23126266/236634609-6e89c91d-1ac5-4f06-964a-79817e3a51e3.png" width="48px"> | <img src="https://www.svgrepo.com/show/448221/docker.svg" width="48px"> <img src="https://www.svgrepo.com/show/448266/aws.svg" width="48px"> <img src="https://www.svgrepo.com/show/448268/aws-ec2.svg" width="48px"> | <img src="https://user-images.githubusercontent.com/23126266/236635287-6a8eb707-e7ed-4414-b0a9-26966bc67213.png" width="48px"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="48px"> <img src="https://user-images.githubusercontent.com/23126266/236635567-91b3ffef-3011-48ce-91cc-7a16846a0597.png" width="48px"> |
